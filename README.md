@@ -1,6 +1,6 @@
 # Proxy TuNER: Advancing Cross-Domain Named Entity Recognition through Proxy Tuning
 
-You can read the full research paper [here]([https://example.com/link-to-your-paper](https://figshare.com/articles/journal_contribution/Proxy_TuNER_Advancing_Cross-Domain_NamedEntity_Recognition_through_Proxy_Tuning/26822227/1)).
+You can read the full research paper [here](https://figshare.com/articles/journal_contribution/Proxy_TuNER_Advancing_Cross-Domain_NamedEntity_Recognition_through_Proxy_Tuning/26822227/1).
 
 Proxy TuNER is an innovative project focused on improving the versatility and accuracy of Named Entity Recognition (NER) systems across different domains by implementing advanced proxy tuning methods.
 
